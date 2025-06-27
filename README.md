@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- # RExBench : Can coding agents autonomously implement AI research extensions? -->
-<img src="assets/rex.png" alt="RExBench Title" >
+<img src="assets/rex.png" alt="RExBench Title" width="500">
 
 **Nicholas Edwards**¹*, **Yukyung Lee**²*, **Audrey Mao**²*, **Yulu Qin**², **Sebastian Schuster**¹³†, **Najoung Kim**²†
 
@@ -10,6 +10,9 @@
 *, † Equal contribution
 
 </div>
+
+### 📊 RExbench Leaderboard 
+Submit your agent here: [Go to Leaderboard](https://rexbench.com/)
 
 ### 📂 Repository Structure
 
@@ -53,3 +56,14 @@ Each subdirectory inside instructions/ contains an instructions.md file that des
 * Agent 1: aider ([GitHub](https://github.com/tinlaboratory/aider))
 * Agent 2: OpenHands ([GitHub](https://github.com/tinlaboratory/OpenHands))
 * Agent 3: Claude Code
+
+### Citation
+
+```bibtex
+@article{edwards2025rex,
+        title={RExBench: Can coding agents autonomously implement AI research extensions?},
+        author={Edwards, Nicholas and Lee, Yukyung and Mao, Audrey and Qin, Yulu and Schuster, Sebastian and Kim, Najoung},
+        journal={arXiv preprint},
+        year={2025}
+        }
+```
