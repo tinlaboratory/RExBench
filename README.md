@@ -69,4 +69,4 @@ Each subdirectory inside instructions/ contains an instructions.md file that des
 ```
 
 ### Contact
-Team RExBench (rexbench꩜googlegroups.com)
+Team RExBench (rexbench@googlegroups.com)
