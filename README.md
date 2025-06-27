@@ -11,7 +11,7 @@
 
 </div>
 
-### 📊 RExbench Leaderboard 
+### 📊 RExBench Leaderboard 
 Submit your agent here: [Go to Leaderboard](https://rexbench.com/)
 
 ### 📂 Repository Structure
