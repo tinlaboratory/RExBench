@@ -3,7 +3,7 @@
 <!-- # RExBench : Can coding agents autonomously implement AI research extensions? -->
 <img src="assets/rex.png" alt="RExBench Title" width="800">
 
-**Nicholas Edwards**¹*, **Yukyung Lee**²*, **Audrey Mao**², **Yulu Qin**², **Sebastian Schuster**¹³†, **Najoung Kim**²†
+**Nicholas Edwards**¹*, **Yukyung Lee**²*, **Yujun (Audrey) Mao**², **Yulu Qin**², **Sebastian Schuster**¹³†, **Najoung Kim**²†
 
 ¹University College London, ²Boston University, ³University of Vienna
 
@@ -62,7 +62,7 @@ Each subdirectory inside instructions/ contains an instructions.md file that des
 ```bibtex
 @article{edwards2025rex,
         title={RExBench: Can coding agents autonomously implement AI research extensions?},
-        author={Edwards, Nicholas and Lee, Yukyung and Mao, Audrey and Qin, Yulu and Schuster, Sebastian and Kim, Najoung},
+        author={Edwards, Nicholas and Lee, Yukyung and Mao, Yujun (Audrey) and Qin, Yulu and Schuster, Sebastian and Kim, Najoung},
         journal={arXiv preprint},
         year={2025}
         }
