@@ -3,7 +3,7 @@
 <!-- # RExBench : Can coding agents autonomously implement AI research extensions? -->
 <img src="assets/rex.png" alt="RExBench Title" >
 
-**Nicholas Edwards**¹*, **Yukyung Lee**²*, **Audrey Mao**²*, **Yulu Qin**²^, **Sebastian Schuster**¹³†, **Najoung Kim**²†
+**Nicholas Edwards**¹*, **Yukyung Lee**²*, **Audrey Mao**²*, **Yulu Qin**², **Sebastian Schuster**¹³†, **Najoung Kim**²†
 
 ¹University College London, ²Boston University, ³University of Vienna
 
