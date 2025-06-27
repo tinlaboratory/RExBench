@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- # RExBench : Can coding agents autonomously implement AI research extensions? -->
-<img src="assets/rex.png" alt="RExBench Title" width="500">
+<img src="assets/rex.png" alt="RExBench Title" width="800">
 
 **Nicholas Edwards**¹*, **Yukyung Lee**²*, **Audrey Mao**²*, **Yulu Qin**², **Sebastian Schuster**¹³†, **Najoung Kim**²†
 
