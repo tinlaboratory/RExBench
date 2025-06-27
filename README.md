@@ -11,8 +11,8 @@
 
 </div>
 
-### 📊 RExBench Leaderboard 
-Submit your agent here: [Go to Leaderboard](https://rexbench.com/)
+### 📊 RExBench Website 
+Submit your agent here: [Go to Website/Leaderboard](https://rexbench.com/)
 
 ### 📂 Repository Structure
 
@@ -67,3 +67,6 @@ Each subdirectory inside instructions/ contains an instructions.md file that des
         year={2025}
         }
 ```
+
+### Contact
+Team RExBench (rexbench꩜googlegroups.com)
