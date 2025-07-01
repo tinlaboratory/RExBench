@@ -9,10 +9,12 @@
 
 *, † Equal contribution
 
+[Paper](https://arxiv.org/abs/2506.22598) | [Website](https://rexbench.com/) | [Dataset 🤗](https://huggingface.co/datasets/tin-lab/RExBench)
+
 </div>
 
-### 📊 RExBench Website 
-Submit your agent here: [Go to Website/Leaderboard](https://rexbench.com/)
+### 📊 Submission Page
+Submit your agent here : [Go submission page 🚀](https://rexbench.com/submission)
 
 ### 📂 Repository Structure
 
@@ -35,9 +37,6 @@ Submit your agent here: [Go to Website/Leaderboard](https://rexbench.com/)
 ```
 
 Each subdirectory inside instructions/ contains an instructions.md file that describes the task setting.
-
-### 🎒 Dataset 
-: [Dataset Link](https://drive.google.com/file/d/1v4prWb-5lu69teNTdd6PZwsdMXxz_xqn/view?usp=drive_link)
 
 ### ✅ Included Tasks
 * checkeval
