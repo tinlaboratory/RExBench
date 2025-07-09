@@ -52,8 +52,8 @@ Each subdirectory inside instructions/ contains an instructions.md file that des
 * winodict
 
 ### 🧠 Baseline Agents
-* Agent 1: aider ([GitHub](https://github.com/tinlaboratory/aider))
-* Agent 2: OpenHands ([GitHub](https://github.com/tinlaboratory/OpenHands))
+* Agent 1: aider ([GitHub](https://github.com/tinlaboratory/RExBench-aider))
+* Agent 2: OpenHands ([GitHub](https://github.com/tinlaboratory/RExBench-OpenHands))
 * Agent 3: Claude Code
 
 ### Citation
